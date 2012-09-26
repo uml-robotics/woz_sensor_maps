@@ -1,0 +1,15 @@
+<package>
+  <description brief="woz_sensor_maps">
+
+    Contains sensor maps (occupancy grids) to be used
+    by the fake sensors.
+
+  </description>
+  <author>Mikhail Medvedev</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/woz_sensor_maps</url>
+
+</package>
+
+
